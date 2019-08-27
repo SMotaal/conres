@@ -7,7 +7,7 @@
 
 ### **`1.` Test Suite**
 
-> **Important Note**: The definitions below involve _opinionated stipulations_ for historically fuzzy terminology, largely open to interpretation and disagreement, especially in edge-cases dealing only with a limited subset of the defined concepts, subject to over-generalization, preferences and/or conventions.
+> **Important Note**: The definitions below involve _opinionated stipulations_ for historically fuzzy terminology, which is largely open to interpretation and disagreement, especially in edge-cases dealing only with a limited subset of the defined concepts, subject to over-generalization, preferences and/or conventions.
 
 #### **`1.a.` Logical**
 
@@ -17,7 +17,7 @@
 
 <ul>
 
-**`1.a.1.a.` Supplementary Test Target(s)** — One or more operationally significant but logically distinct test targets meant for caliration and/or validation of the operating conditions.
+**`1.a.1.a.` Supplementary Test Target(s)** — One or more operationally significant but logically distinct test targets meant for calibration and/or validation of the operating conditions.
 
 </ul>
 
@@ -31,11 +31,15 @@
 
 <ul>
 
-**`1.b.1.` Test Forme** — an "imposed" sheet containing one or more test elements.
+**`1.b.1.` Test Form** — an "imposed" sheet containing one or more test elements.
 
-- From the producer side, test elements will usually be "arranged" according to the measurement and/or capture requirements, with clear instructions for handling by the operator, where it is important to clearly mark enclosing areas with test images, intended for reliable processing and sampling.
+- From the producer side, test elements will usually be "arranged or imposed" according to the measurement and/or capture requirements, with clear instructions for handling by the operator, where it is important to clearly mark enclosing areas with test images, intended for reliable processing and sampling.
 
 - From the operator side, sheets will usually be "labeled", "trimmed" and "collated" following instructions and marked enclosing areas.
+
+
+Would it help to spcifically explain the difference between Test Form and Test Chart? I am still confused.
+
 
 **`1.b.2.` Test Chart** — trimmed sheet(s) containing individual or sequential test area _normally_ intended for measurement by specialized equipment that often rely on track marks for alignment and positioning.
 
