@@ -27,4 +27,4 @@ Makes a *downstream* clone of an *upstream* repository.
 
 - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 
-<style src="/markout/styles/playground.primer.css"></style>
+<style src="/markout/styles/playground.primer.css"/>
